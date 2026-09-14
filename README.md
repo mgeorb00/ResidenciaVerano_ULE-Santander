@@ -1,10 +1,13 @@
 # ResidenciaVerano_ULE-Santander
 
 ## 1. Descripción
+Este repositorio contiene los scripts necesarios para entrenar, evaluar y comparar diversos modelos de visión por computador (familias **YOLO**, **LeYOLO** y **RT-DETR**).
+
+El objetivo principal de este trabajo es analizar el rendimiento y la velocidad de inferencia de estas arquitecturas sobre un dataset de **imágenes de especies vegetales y objetos agrícolas**, accesible a través de [Zenodo](https://doi.org/10.5281/zenodo.22544419).
+
 
 ## 2. Resultados obtenidos
 
-## 📊 Comparativa de Modelos
 
 Los resultados obtenidos tras la ejecucion de los diferentes modelos utilizando el conjunto de imágenes https://doi.org/10.5281/zenodo.22544419: 
 
